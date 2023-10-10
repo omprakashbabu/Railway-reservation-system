@@ -1,4 +1,4 @@
-#include #include
+#include<iostream>
 using namespace std;
 class Train { 
 private:
