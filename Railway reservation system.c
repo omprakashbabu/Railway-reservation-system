@@ -44,7 +44,7 @@ return availableSeats;
 } 
 };
 class Passenger { 
-private:
+private: 
 string name;
 int age; 
 6 string gender;
