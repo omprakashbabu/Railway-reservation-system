@@ -13,7 +13,7 @@ trainNumber = tNo;
 trainName = tName;
 source = src; 
 destination = dest; 
-for (int i = 0; i < 3; i++){ 
+for (int i = 0; i < 3; i++){  
 availableSeats[i] = seats[i]; 
 }
 }
