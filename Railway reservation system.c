@@ -2,7 +2,7 @@
 using namespace std;
 class Train { 
 private:
-int trainNumber; 
+int trainNumber;   
 string trainName; 
 string source; 
 string destination;  
