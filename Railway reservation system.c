@@ -6,7 +6,7 @@ int trainNumber;
 string trainName; 
 string source; 
 string destination;  
-int availableSeats[3]; 
+int availableSeats[3];  
 public: 
 void setTrainDetails(int tNo, string tName, string src, string dest, int seats[3]) {
 trainNumber = tNo; 
