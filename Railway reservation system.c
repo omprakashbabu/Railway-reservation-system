@@ -3,7 +3,7 @@ using namespace std;
 class Train { 
 private:
 int trainNumber;   
-string trainName; 
+string trainName;  
 string source; 
 string destination;  
 int availableSeats[3];  
