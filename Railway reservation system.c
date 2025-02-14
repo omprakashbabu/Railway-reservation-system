@@ -8,7 +8,7 @@ string source;
 string destination;  
 int availableSeats[3];  
 public: 
-void setTrainDetails(int tNo, string tName, string src, string dest, int seats[3]) {
+void setTrainDetails(int tNo, string tName, string src, string dest, int seats[3]) { 
 trainNumber = tNo; 
 trainName = tName;
 source = src; 
