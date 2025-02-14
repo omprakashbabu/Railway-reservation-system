@@ -11,7 +11,7 @@ public:
 void setTrainDetails(int tNo, string tName, string src, string dest, int seats[3]) { 
 trainNumber = tNo; 
 trainName = tName;
-source = src; 
+source = src;  
 destination = dest;  
 for (int i = 0; i < 3; i++){  
 availableSeats[i] = seats[i]; 
