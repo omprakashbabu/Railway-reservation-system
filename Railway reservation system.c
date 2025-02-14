@@ -22,7 +22,7 @@ cout << "Train No.: " << trainNumber << endl;
 cout << "Train Name: " << trainName << endl;  
 cout << "Source: " << source << endl; 
 cout << "Destination: " << destination << endl; 
-cout << "Available Seats: " << endl;
+cout << "Available Seats: " << endl; 
 for (int i = 0; i < 3; i++) { 
 cout << "Class " << i + 1 << ": " << availableSeats[i] << endl; 
 }
