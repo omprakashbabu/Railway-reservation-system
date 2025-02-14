@@ -19,7 +19,7 @@ availableSeats[i] = seats[i];
 }
 void displayTrainDetails() {
 cout << "Train No.: " << trainNumber << endl; 
-cout << "Train Name: " << trainName << endl; 
+cout << "Train Name: " << trainName << endl;  
 cout << "Source: " << source << endl; 
 cout << "Destination: " << destination << endl; 
 cout << "Available Seats: " << endl;
