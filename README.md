@@ -11,7 +11,7 @@ The railway reservation system should be able to handle the following functional
 1. User registration and login: Users should be able to create a new account by
 providing their personal details, such as name, email, phone number, and password.
 They should also be able to log in using their credentials.
-2. Train search and booking: Users should be able to search for trains based on
+2. Train search and booking: Users should be able to search for trains based on 
 the source and destination locations, date of travel, and class of travel. They should
 also be able to view the availability of seats and fares for each train and book tickets
 online. The system should also allow users to cancel their tickets and process
