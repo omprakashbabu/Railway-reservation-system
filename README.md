@@ -4,7 +4,7 @@ RAILWAY RESERVATION SYSTEM
 PROBLEM STATEMENT:-
 The railway reservation system is a software application that enables passengers to
 book train tickets online or through ticket counters. The system should be designed
-to handle a large number of simultaneous requests from users and provide a
+to handle a large number of simultaneous requests from users and provide a 
 seamless booking experience. The system should also allow users to check train
 schedules, availability of seats, fares, and cancellation/refund policies. 
 The railway reservation system should be able to handle the following functionalities: 
