@@ -13,7 +13,7 @@ providing their personal details, such as name, email, phone number, and passwor
 They should also be able to log in using their credentials.
 2. Train search and booking: Users should be able to search for trains based on 
 the source and destination locations, date of travel, and class of travel. They should
-also be able to view the availability of seats and fares for each train and book tickets
+also be able to view the availability of seats and fares for each train and book tickets 
 online. The system should also allow users to cancel their tickets and process
 refunds.
 3. Payment gateway integration: The system should be integrated with a payment gateway
