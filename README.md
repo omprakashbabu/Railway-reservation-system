@@ -7,7 +7,7 @@ book train tickets online or through ticket counters. The system should be desig
 to handle a large number of simultaneous requests from users and provide a 
 seamless booking experience. The system should also allow users to check train
 schedules, availability of seats, fares, and cancellation/refund policies. 
-The railway reservation system should be able to handle the following functionalities: 
+The railway reservation system should be able to handle the following  functionalities: 
 1. User registration and login: Users should be able to create a new account by
 providing their personal details, such as name, email, phone number, and password.
 They should also be able to log in using their credentials.
